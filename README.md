@@ -1,7 +1,7 @@
-#KeepCoding-IA-Deep-Learning-CV
+# KeepCoding-IA-Deep-Learning-CV
 Repositorio de entrega de la práctica de Deep Learning y Computer Vision.
 
-Este repositorio contiene la creación de modelos para resolver el problema de clasificación de enfermedades de la piel utilizando el dataset HAM10000 (Human Against Machine with 10000 training images).
+Este repositorio contiene la creación de modelos para resolver el problema de clasificación de enfermedades de la piel utilizando el dataset HAM10000 (Human Against Machine with 10000 training images). A continuación el detalle de cada uno de los archivos de la entrega.
 
 ## Entrega Proyecto DL IA V | 1. Modelos Tabular e Imágenes
 Contiene la carga y preparación de los datos para el entrenamiento. Se crean, de forma independiente, un modelo tabular y un modelo para el procesamiento de imágenes.
